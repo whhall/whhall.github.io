@@ -1,7 +1,12 @@
 body{
-	background-color: #ecfcf0;
+	background-color: #545454;
 	color: #545454;
 }
-container{
-    background-color: #ffe9ae;
+.paper{
+    background-color: #fff7b8;
+    max-width: 700px;
+    margin: auto;
+}
+.col{
+    padding: 0 10%;
 }
