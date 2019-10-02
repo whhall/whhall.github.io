@@ -1,6 +1,6 @@
 ﻿body
 {
-    background: url(catYarn.jpg) top left repeat-y, url(pinkBackGround.jpg) repeat;
+    background: url(../catYarn.jpg) top left repeat-y, url(../pinkBackGround.jpg) repeat;
 }
 
 .center {
