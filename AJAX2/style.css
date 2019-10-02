@@ -1,6 +1,6 @@
 ﻿body
 {
-    background: url(https://whhall.github.io/AJAX2/CatYarn.jpg) top left repeat-y, url(https://whhall.github.io/AJAX2/pinkBackGround.jpg) repeat;
+    background: url(https://whhall.github.io/AJAX2/CatYarn.jpg) top left repeat-y, url(../AJAX2/pinkBackGround.jpg) repeat;
 }
 
 .center {
