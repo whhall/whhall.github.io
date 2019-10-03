@@ -5,8 +5,12 @@ body{
 .paper{
     background-color: #fff7b8;
     max-width: 700px;
-    margin: 10% auto;
+    margin: 7% auto;
+    border-radius: 25px;
 }
 .col{
     padding: 0 10%;
+}
+p{
+    font-size:20px;
 }
