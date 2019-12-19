@@ -3,9 +3,9 @@ body{
 	color: #545454;
 }
 .paper{
-    background-color: #fff7b8;
+    background-color: #F8F3EA;
     max-width: 1000px;
-    margin: 7% auto;
+    margin: auto;
     border-radius: 25px;
 }
 .col{
