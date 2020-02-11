@@ -13,3 +13,9 @@ p{
     font-size:22px;
 }
 
+@media screen and (max-width: 600px){
+	.ml-auto, .mx-auto {
+	    margin-left: auto!important;
+	    width: 90%;
+	}
+}
