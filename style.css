@@ -19,7 +19,7 @@ img{
 	
 }
 @media screen and (max-width: 600px) {
-	#projects > img{	
+	.projectsImg{	
 		width:90%;
 	}
 
