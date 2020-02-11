@@ -4,10 +4,6 @@ body{
 }
 .paper{
     background-color: #F2F2F2;
-    border-radius: 25px;
-	-webkit-box-shadow: inset 10px 4px 31px 17px rgba(0,0,0,1);
-	-moz-box-shadow: inset 10px 4px 31px 17px rgba(0,0,0,1);
-	box-shadow: inset 10px 4px 31px 17px rgba(0,0,0,1);
 }
 .col{
     padding: 0 10%;
