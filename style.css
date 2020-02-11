@@ -12,10 +12,7 @@ body{
 p{
     font-size:22px;
 }
-
-
-.ml-auto, .mx-auto {
-	margin-left: auto!important;
-	width: 90%;
+ img{
+	 width:90%;
 }
 
