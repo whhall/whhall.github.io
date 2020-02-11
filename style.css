@@ -12,7 +12,10 @@ body{
 p{
     font-size:22px;
 }
- img{
-	 width:90%;
+@media screen and (max-width: 600px) {
+	img{	
+		width:90%;
+	}
+
 }
 
