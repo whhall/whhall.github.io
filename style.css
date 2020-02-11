@@ -15,13 +15,7 @@ body{
 p{
     font-size:22px;
 }
-img{
-	
-}
-@media screen and (max-width: 600px) {
-	.projectsImg{	
-		width:90%;
-	}
-
+.projectsImg{
+	width:80%;
 }
 
