@@ -14,3 +14,7 @@ p{
 .projectsImg{
 	width:80%;
 }
+
+img:hover, img:active{
+	opacity: 0.5;
+}
