@@ -4,9 +4,6 @@ body{
 }
 .paper{
     background-color: #F2F2F2;
-	-webkit-box-shadow: inset 0px 0px 87px -52px rgba(84,84,84,1);
-	-moz-box-shadow: inset 0px 0px 87px -52px rgba(84,84,84,1);
-	box-shadow: inset 0px 0px 87px -52px rgba(84,84,84,1);
 }
 .col{
     padding: 0 10%;
